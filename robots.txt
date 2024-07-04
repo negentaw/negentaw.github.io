@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://negentaw.github.io/sitemap
+Sitemap: https://negentaw.github.io/app/sitemap
+Sitemap: https://negentaw.github.io/assets/sitemap
+Sitemap: https://negentaw.github.io/css/sitemap
+Sitemap: https://negentaw.github.io/includes/sitemap
+Sitemap: https://negentaw.github.io/item/sitemap
+Sitemap: https://negentaw.github.io/src/sitemap
